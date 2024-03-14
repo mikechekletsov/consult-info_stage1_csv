@@ -8,7 +8,7 @@
 <body>
 <div class="container">
     <div class="row justify-content-center">
-        <div class="col-md-3">
+        <div class="col-md-4">
             <form action="upload.php" method="post" enctype="multipart/form-data" class="mt-5">
                 <div class="form-group">
                     <label for="csvFile">Выберите CSV файл для загрузки:</label>
