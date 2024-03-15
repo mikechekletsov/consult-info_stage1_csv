@@ -26,4 +26,3 @@ if (isset($_FILES['csvFile']['tmp_name'])) {
         fclose($handle);
     }
 }
-?>
